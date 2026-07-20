@@ -6,6 +6,24 @@ __pycache__/
 # C extensions
 *.so
 
+#heavey capacity
+# Models
+ParsBERT/
+
+# Outputs
+outputs/
+
+# Figures (optional)
+# results/figures/*.html
+# outputs/document_info.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
 # Distribution / packaging
 .Python
 build/
