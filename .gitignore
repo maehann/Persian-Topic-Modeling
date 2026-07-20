@@ -15,7 +15,7 @@ outputs/
 
 # Figures (optional)
 # results/figures/*.html
-# outputs/document_info.csv
+outputs/document_info.csv
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
